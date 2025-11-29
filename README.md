@@ -7,7 +7,7 @@
 I am a software engineering student at **42 School**, passionate about **System Programming**, **Architecture**, and **DevOps**.
 While I built my strong technical foundation with **C/C++** and **Docker**, I am a curiosity-driven developer eager to **explore new technologies**, languages, and modern ecosystems to solve complex problems.
 
-**🚀 Currently open to new opportunities and interesting collaborations!**
+<h3 align="center"> 🚀 Currently open to new opportunities and interesting collaborations! </h3>
 
 ## 🛠️ Languages and Tools
 

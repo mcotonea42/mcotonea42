@@ -23,9 +23,9 @@ Here are some of the most significant projects I built during my curriculum:
 | :--- | :--- | :--- |
 | **[🐳 Inception](https://github.com/mcotonea42/Inception)** | System Administration project. Complete **Docker** infrastructure setup with **Nginx**, **MariaDB**, and **WordPress** on Debian. | `Docker Compose` `DevOps` `SysAdmin` |
 | **[📡 ft_irc](https://github.com/mcotonea42/ft_irc)** | A fully functional **IRC Server** compliant with RFC 1459. Features non-blocking I/O, **Command Pattern** architecture, and custom logging. | `C++98` `Sockets` `Poll` `Design Patterns` |
-| **[🐚 Minishell](https://github.com/mcotonea42/Minishell)** | A custom **Bash-like shell**. Handles process creation, pipes, redirections, signals, and environment variables. | `C` `Syscalls` `Process Management` |
-| **[🎮 Cub3D](https://github.com/mcotonea42/Cub3D)** | A 3D game engine inspired by **Wolfenstein 3D**. Uses **Raycasting** algorithms (DDA) to render a 3D perspective from a 2D map. | `C` `Raycasting` `Graphics` `Maths` |
-| **[📚 42 CPP Modules](https://github.com/mcotonea42/42-CPP-Series)** | Deep dive into **Object-Oriented Programming**. From basic classes to advanced **STL** usage and Templates. | `C++98` `OOP` `STL` `Templates` |
+| **[🐚 Minishell](https://github.com/mcotonea42/minishell)** | A custom **Bash-like shell**. Handles process creation, pipes, redirections, signals, and environment variables. | `C` `Syscalls` `Process Management` |
+| **[🎮 Cub3D](https://github.com/mcotonea42/cub3d)** | A 3D game engine inspired by **Wolfenstein 3D**. Uses **Raycasting** algorithms (DDA) to render a 3D perspective from a 2D map. | `C` `Raycasting` `Graphics` `Maths` |
+| **[📚 42 CPP Modules](https://github.com/mcotonea42/CPPs)** | Deep dive into **Object-Oriented Programming**. From basic classes to advanced **STL** usage and Templates. | `C++98` `OOP` `STL` `Templates` |
 
 ### 📫 Connect with me
 
